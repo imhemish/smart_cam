@@ -337,7 +337,6 @@ void _describeImage() async {
       description = p.text;
       processing = false;
     });
-    tts.speak(p.text);
 }
 ```
 
