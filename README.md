@@ -129,7 +129,7 @@ For now, write this code:
   }
 ```
 
-To show this UI, inside `main.dart` file, use this `SmartCam(language: 'english')` as `home: ` argument.
+To show this UI, inside `main.dart` file, use this `SmartCam('english')` as `home: ` argument.
 
 Now, we have got the sample UI without the functionality.
 
